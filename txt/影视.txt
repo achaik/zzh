@@ -1,5 +1,5 @@
 {"sites":[
-{"key":"csp_Kunyu77","name":"👒酷云七七〔公众号：人人资源〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-10-09 16:05:11"},
+{"key":"csp_Kunyu77","name":"👒酷云七七〔千年宝庆府 一品邵阳红〕","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-10-09 16:05:11"},
 {"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-10-09 16:05:11"},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-10-09 16:05:11"},
 {"key":"csp_SP293","name":" 👒293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"date":"2022-10-09 16:05:11"},
